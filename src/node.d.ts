@@ -1,3 +1,4 @@
 interface ErrorConstructor {
-    captureStackTrace(thisArg: any, func: any): void
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  captureStackTrace(thisArg: any, func: any): void;
 }

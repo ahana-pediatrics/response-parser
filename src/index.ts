@@ -1,2 +1,2 @@
-export * from './ResponseParser';
-export * from './JSONType';
+export * from "./ResponseParser";
+export * from "./JSONType";
