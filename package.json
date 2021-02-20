@@ -1,0 +1,15 @@
+{
+  "name": "@ahanapediatrics/response-parser",
+  "version": "1.0.0",
+  "description": "A typed response parser",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Rumney <dan.rumney@ahanapediatrics.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@ahanapediatrics/ahana-fp": "^2.6.0",
+    "date-fns": "^2.17.0"
+  }
+}
