@@ -24,7 +24,8 @@
       "es2017.string",
       "es2018.promise"
     ],
-    "resolveJsonModule": true
+    "resolveJsonModule": true,
+    "types": ["node", "mocha"]
   },
   "include": ["src"],
   "exclude": ["node_modules", "dist", "coverage"]
