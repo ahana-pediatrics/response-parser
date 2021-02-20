@@ -1,5 +1,5 @@
 {
-  "name": "@ahanapediatrics/response-parser",
+  "name": "@ahana-pediatrics/response-parser",
   "version": "1.0.0",
   "description": "A strongly-typed response parser",
   "main": "dist/index.js",
